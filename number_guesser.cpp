@@ -50,7 +50,7 @@ int main() {
                     break;
                 }
                     case 8:{
-                        cout<<"è un numero divisibile per 2 e per 4"<<endl;
+                        cout<<"Ã¨ un numero divisibile per 2 e per 4"<<endl;
                         break;
                     }
                 }
