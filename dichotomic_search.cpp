@@ -26,17 +26,17 @@ while (sup <= inf && pos==-1) {
        int m =  (inf+sup) / 2;
 
 
-       // Controllo se x è presente al centro
+       // Controllo se x Ã¨ presente al centro
        if (v[m] == x)
            pos= m;
 
 
-       // Se x è maggiore, ignora la metà superiore
+       // Se x Ã¨ maggiore, ignora la metÃ  superiore
        if (v[m] < x)
            sup = m + 1;
 
 
-           // Altrimenti, ignora la metà inferiore
+           // Altrimenti, ignora la metÃ  inferiore
        else
            inf = m - 1;
    }
