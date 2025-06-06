@@ -5,9 +5,9 @@ int main () {
     int n=1;
     int w;
     int np=0;
-    coutprogramma che conteggia i numeri pari fino all'inserimento dello 0endl;
+    cout<<"programma che conteggia i numeri pari fino all'inserimento dello 0"<<endl;
     do{
-    coutinserire un numero qualsiasi o inserire zero per ricevere il conteggio di numeri pariendl;
+    cout<<"inserire un numero qualsiasi o inserire zero per ricevere il conteggio di numeri pari"<<endl;
      cinn;
     w=n;
      while(w=0){
