@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main () {
+    int n=1;
+    int w;
+    int np=0;
+    coutprogramma che conteggia i numeri pari fino all'inserimento dello 0endl;
+    do{
+    coutinserire un numero qualsiasi o inserire zero per ricevere il conteggio di numeri pariendl;
+     cinn;
+    w=n;
+     while(w=0){
+         w=w-2;
+         if(w==0){
+             np++;
+         }
+       
+     }
+    }while(n0);
+    couti numeri pari sono in tutto np;
+    return 0;
+}      
